@@ -30,6 +30,18 @@
   
 <img src="https://gitee.com/LoveGlaze/BaiDuPan/raw/master/%E9%87%8D%E6%96%B0%E7%99%BB%E9%99%86%E9%94%99%E8%AF%AF.png" />  
 
+#### Aria2NG:[点击下载](https://gitee.com/LoveGlaze/BaiDuPan/attach_files/860265/download/Aria2.zip)
+
+下载完成后，双击Aria2NG打开软件，此时会自动弹出网页管理页面，修改保存目录与数码小站脚本相同并且电脑存在该目录。
+
+![](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/Aria1.png)  
+
+![](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/Aria2.png)  
+
+![](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/Aria3.png)
+
+![](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/Aria4.png)
+
 #### Motrix:[点击下载](https://motrix.app)  
 
 使用方法同IDM,设置UA后复制直链新建任务下载。
