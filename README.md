@@ -32,7 +32,7 @@
 
 #### Aria2NG:[点击下载](https://gitee.com/LoveGlaze/BaiDuPan/attach_files/860265/download/Aria2.zip)
 
-下载完成后，双击Aria2NG打开软件，此时会自动弹出网页管理页面，修改保存目录与数码小站脚本相同并且电脑存在该目录。
+- 下载完成后，双击Aria2NG打开软件，此时会自动弹出网页管理页面，修改保存目录与数码小站脚本相同并且电脑存在该目录。
 
 ![](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/Aria1.png)  
 
@@ -44,23 +44,23 @@
 
 #### Motrix:[点击下载](https://motrix.app)  
 
-使用方法同IDM,设置UA后复制直链新建任务下载。
+- 使用方法同IDM,设置UA后复制直链新建任务下载。
   
 ![Motrix](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/Motrix.png)    
 
 #### NDM:[点击下载](https://ninjadownloadmanager.com)  
 
-使用方法同IDM,设置UA后复制直链新建任务下载。  
+- 使用方法同IDM,设置UA后复制直链新建任务下载。  
 
 ### 2. Mac
 
 #### NDM:[点击下载](https://ninjadownloadmanager.com)
 
-使用方法同IDM,设置UA后复制直链新建任务下载。
+- 使用方法同IDM,设置UA后复制直链新建任务下载。
 
 #### Motrix:[点击下载](https://motrix.app)
 
-使用方法同IDM,设置UA后复制直链新建任务下载。
+- 使用方法同IDM,设置UA后复制直链新建任务下载。
 
 ![Motrix](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/Motrix.png)  
 
@@ -68,7 +68,7 @@
 
 #### Aria2NG:[点击下载](https://gitee.com/LoveGlaze/BaiDuPan/attach_files/860266/download/AriaNg%20GUI%20-%20KinhDown.apk)  
 
-下载完毕后打开软件前往解析地址解析，也可以手动打开解析地址：https://baidu.kinh.cc  
+- 下载完毕后打开软件前往解析地址解析，也可以手动打开解析地址：https://baidu.kinh.cc  
 
 ![](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/AriaS1.png)![](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/AriaS2.png)  
 
