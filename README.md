@@ -4,7 +4,7 @@
 - [点击安装油猴](https://www.tampermonkey.net)
 - [点击安装数码小站脚本](https://greasyfork.org/zh-CN/scripts/426806)  
 - 此脚本为油猴脚本，暴力猴可能存在卡密一直查询中的问题
-- [KinhDownke客户端](https://kinhdown.com)
+- 也可以使用KinhDown客户端[KinhDown主页](https://kinhdown.com)
 ### 1. Windows  
 #### IDM:[点击下载](https://gitee.com/LoveGlaze/BaiDuPan/attach_files/860267/download/Internet%20Download%20Manager%206.39.5.exe)  
 - 动图：
