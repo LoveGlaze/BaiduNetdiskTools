@@ -18,14 +18,19 @@
 -- 重新登陆：右上角重新登陆百度网盘。  
 <img src="https://gitee.com/LoveGlaze/BaiDuPan/raw/master/%E9%87%8D%E6%96%B0%E7%99%BB%E9%99%86%E9%94%99%E8%AF%AF.png" />  
 #### Motrix:[点击下载](https://motrix.app)  
-使用方法同IDM
+使用方法同IDM,设置UA后复制直链新建任务下载。  
+![Motrix](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/Motrix.png)    
+#### NDM:[点击下载](https://ninjadownloadmanager.com)  
+使用方法同IDM,设置UA后复制直链新建任务下载。  
 ### 2.  Mac
-#### NDM:[点击下载](https://gitee.com/LoveGlaze/BaiDuPan/attach_files/860264/download/NDM%20-%20%E9%80%82%E7%94%A8%E4%BA%8EAPI%E4%B8%8B%E8%BD%BD.dmg)
+#### NDM:[点击下载](https://ninjadownloadmanager.com)
 使用方法同IDM,设置UA后复制直链新建任务下载。
 #### Motrix:[点击下载](https://motrix.app)
 使用方法同IDM,设置UA后复制直链新建任务下载。
-![]()  
-3.  xxxx
-
-
-`这里输入代码`
+![Motrix](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/Motrix.png)  
+### 2.  手机  
+Aria2NG:[点击下载](https://gitee.com/LoveGlaze/BaiDuPan/attach_files/860266/download/AriaNg%20GUI%20-%20KinhDown.apk)  
+下载完毕后打开软件前往解析地址解析，也可以手动打开解析地址：https://baidu.kinh.cc  
+![](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/AriaS1.png)  
+![](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/AriaS2.png)  
+![](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/AriaS3.png)  
