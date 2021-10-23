@@ -1,6 +1,7 @@
 # 百度网盘解析教程  
 
 ## 安装教程  
+- [油猴安装地址](https://www.tampermonkey.net)
 - 数码小站脚本安装地址：https://greasyfork.org/zh-CN/scripts/426806  
 - 此脚本为油猴脚本，暴力猴可能存在卡密一直查询中的问题
 ### 1. Windows  
