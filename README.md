@@ -51,6 +51,16 @@
   
 ![Motrix](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/Motrix.png)    
 
+#### KinhDown:[主页](https://kinhdown.com)
+
+- 底部传输管理，然后顶部选择数码小站
+
+![](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/KinhDown.png)
+
+- 中途提示卡密流量不够，打开Configure.ini，将新获取的卡密填入以下位置
+
+![](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/KinhDown2.png)
+
 #### NDM:[点击下载](https://ninjadownloadmanager.com)  
 
 - 使用方法同IDM,设置UA后复制直链新建任务下载。  
