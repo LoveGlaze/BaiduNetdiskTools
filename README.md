@@ -89,7 +89,7 @@
 
 ### 4. Linux
 
-#### Motrix:[点击下载](https://motrix.app
+#### Motrix:[点击下载](https://motrix.app)
 
 #### Aria2NG:[点击下载](http://aria2.baisheng999.com/)
 
