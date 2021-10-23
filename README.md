@@ -2,7 +2,7 @@
 
 ## 安装教程  
 - 第一步，安装油猴插件：[Tampermonkey](https://www.tampermonkey.net)
-- 第二步，安装数码小站脚本[数码小站](https://greasyfork.org/zh-CN/scripts/426806)  
+- 第二步，安装数码小站脚本：[数码小站](https://greasyfork.org/zh-CN/scripts/426806)  
 - 此脚本为油猴脚本，暴力猴可能存在卡密一直查询中的问题
 - 也可以使用KinhDown客户端[KinhDown主页](https://kinhdown.com)
 ### 1. Windows  
