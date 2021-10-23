@@ -54,13 +54,11 @@
 
 ### 3. 手机  
 
-Aria2NG:[点击下载](https://gitee.com/LoveGlaze/BaiDuPan/attach_files/860266/download/AriaNg%20GUI%20-%20KinhDown.apk)  
+#### Aria2NG:[点击下载](https://gitee.com/LoveGlaze/BaiDuPan/attach_files/860266/download/AriaNg%20GUI%20-%20KinhDown.apk)  
 
 下载完毕后打开软件前往解析地址解析，也可以手动打开解析地址：https://baidu.kinh.cc  
 
-![](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/AriaS1.png)  
-
-![](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/AriaS2.png)  
+![](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/AriaS1.png)![](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/AriaS2.png)  
 
 ![](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/AriaS3.png)  
 
