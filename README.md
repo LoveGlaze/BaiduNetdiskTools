@@ -61,13 +61,13 @@
 
 ![](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/KinhDown2.png)
 
-#### NDM:[点击下载](https://ninjadownloadmanager.com)  
+#### NDM:[点击下载](http://www.neatdownloadmanager.com/index.php)  
 
 - 使用方法同IDM,设置UA后复制直链新建任务下载。  
 
 ### 2. Mac
 
-#### NDM:[点击下载](https://ninjadownloadmanager.com)
+#### NDM:[点击下载](http://www.neatdownloadmanager.com/index.php)
 
 - 使用方法同IDM,设置UA后复制直链新建任务下载。
 
@@ -86,4 +86,11 @@
 ![](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/AriaS1.png)![](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/AriaS2.png)  
 
 ![](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/AriaS3.png)  
+
+### 4. Linux
+
+#### Motrix:[点击下载](https://motrix.app
+
+#### Aria2NG:[点击下载](http://aria2.baisheng999.com/)
+
 
