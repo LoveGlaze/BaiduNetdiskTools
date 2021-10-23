@@ -13,9 +13,9 @@
 - 以防止被拉黑限速，请设置线程为4  
 <img src="https://gitee.com/LoveGlaze/BaiDuPan/raw/master/IDM4.png" />  
 - 错误解决：  
--- 403：请重新解析，复制UA后粘贴到IDM中。  
+- 403：请重新解析，复制UA后粘贴到IDM中。  
 <img src="https://gitee.com/LoveGlaze/BaiDuPan/raw/master/403%E9%94%99%E8%AF%AF.png" />  
--- 重新登陆：右上角重新登陆百度网盘。  
+- 重新登陆：右上角重新登陆百度网盘。  
 <img src="https://gitee.com/LoveGlaze/BaiDuPan/raw/master/%E9%87%8D%E6%96%B0%E7%99%BB%E9%99%86%E9%94%99%E8%AF%AF.png" />  
 #### Motrix:[点击下载](https://motrix.app)  
 使用方法同IDM,设置UA后复制直链新建任务下载。  
