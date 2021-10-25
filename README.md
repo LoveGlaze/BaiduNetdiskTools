@@ -1,5 +1,9 @@
-# 百度网盘解析教程  
-        本教程有一定难度，看不懂中文的请绕道
+# 百度网盘解析教程        
+```diff
++ 本教程有一定难度，看不懂中文的请绕道
+- 本教程有一定难度，看不懂中文的请绕道
+```
+
 ## 安装教程  
 - 第一步，安装油猴插件：[Tampermonkey](https://www.tampermonkey.net)
 - 第二步，安装数码小站脚本：[数码小站](https://greasyfork.org/zh-CN/scripts/426806)  
@@ -24,16 +28,19 @@
 <img src="https://gitee.com/LoveGlaze/BaiDuPan/raw/master/images/IDM4.png" />  
 
 ##### 错误解决：  
-
+```json
 - 403：请重新解析，复制UA后粘贴到IDM中。  
-
+```
 <img src="https://gitee.com/LoveGlaze/BaiDuPan/raw/master/images/403%E9%94%99%E8%AF%AF.png" /> 
- 
-- 重新登陆：右上角重新登陆百度网盘。
-  
+
+```json
+- 重新登陆：右上角重新登陆百度网盘。  
+```
 <img src="https://gitee.com/LoveGlaze/BaiDuPan/raw/master/images/%E9%87%8D%E6%96%B0%E7%99%BB%E9%99%86%E9%94%99%E8%AF%AF.png" />  
 
-- IDM安装后未创建桌面图标的，开始菜单自己找
+```json
+- IDM安装后未创建桌面图标的，开始菜单自己找。  
+```
 
 #### Aria2NG:[点击下载](http://aria2.baisheng999.com/)
 
