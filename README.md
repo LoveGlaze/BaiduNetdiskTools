@@ -39,6 +39,10 @@
 <img src="https://gitee.com/LoveGlaze/BaiDuPan/raw/master/images/%E9%87%8D%E6%96%B0%E7%99%BB%E9%99%86%E9%94%99%E8%AF%AF.png" />  
 
 ```json
+- 解析失败 等待修复,服务器出问题了，等待修复。  
+```
+
+```json
 - IDM安装后未创建桌面图标的，开始菜单自己找。  
 ```
 
