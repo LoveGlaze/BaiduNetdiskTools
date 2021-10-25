@@ -3,7 +3,7 @@
 + 本教程有一定难度，看不懂中文的请绕道
 - 本教程有一定难度，看不懂中文的请绕道
 ```
-
+数码小站官网同样有教程[点击跳转数码小站主页](https://www.shuma.ink/zh-cn/install.html)
 ## 安装教程  
 - 第一步，安装油猴插件：[Tampermonkey](https://www.tampermonkey.net)
 - 第二步，安装数码小站脚本：[数码小站](https://greasyfork.org/zh-CN/scripts/426806)  
