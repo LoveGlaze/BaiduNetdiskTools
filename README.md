@@ -48,7 +48,7 @@
 
 #### Aria2NG:[点击下载](http://aria2.baisheng999.com/)
 
-- 下载完成后，双击Aria2NG打开软件，此时会自动弹出网页管理页面，点解解析，解析后出现发送到Aria按钮，点击会发送到Aria下载，也可通过[脚本配置](http://settings.shuma.ink)修改保存目录。
+- 双击Aria2NG打开软件，此时会自动弹出网页管理页面，点击解析，解析后出现发送到Aria按钮，点击会发送到Aria下载，也可通过[脚本配置](http://settings.shuma.ink)修改保存目录。
 
 ![](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/images/Aria1.png)  
 
