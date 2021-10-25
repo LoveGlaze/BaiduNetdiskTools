@@ -48,21 +48,22 @@
 
 #### Aria2NG:[点击下载](http://aria2.baisheng999.com/)
 
-- 下载完成后，双击Aria2NG打开软件，此时会自动弹出网页管理页面，修改保存目录与数码小站脚本相同并且电脑存在该目录。
+- 下载完成后，双击Aria2NG打开软件，此时会自动弹出网页管理页面，点解解析，解析后出现发送到Aria按钮，点击会发送到Aria下载，也可通过[脚本配置](http://settings.shuma.ink)修改保存目录。
 
 ![](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/images/Aria1.png)  
 
-![](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/images/Aria2.png)  
-
-![](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/images/Aria3.png)
-
-![](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/images/Aria4.png)
-
 #### Motrix:[点击下载](https://motrix.app)  
-
+##### 方法一
 - 使用方法同IDM,设置UA后复制直链新建任务下载。
   
 ![Motrix](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/images/Motrix.png)    
+
+##### 方法二
+- 也可通过修改脚本配置端口6800为16800后，点击发送到Aria后会发送到Motrix下载，此时下载目录为[脚本配置](http://settings.shuma.ink)页的目录。
+
+![Motrix](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/images/Motrix2.png)  
+
+![Motrix](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/images/Motrix3.png)  
 
 #### KinhDown:[主页](https://kinhdown.com)
 
