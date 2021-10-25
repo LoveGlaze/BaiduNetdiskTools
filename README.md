@@ -10,7 +10,7 @@
 - 暴力猴可能存在卡密一直查询中的问题
 - 也可以使用[KinhDown客户端](https://kinhdown.com)，可批量下载
 ### 1. Windows  
-#### IDM:[点击下载](https://gitee.com/LoveGlaze/BaiDuPan/attach_files/861246/download/Internet%20Download%20Manager.exe)  
+#### IDM:[点击下载](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/IDM/Internet%20Download%20Manager.exe)  
 - 动图：
 
 <img src="https://gitee.com/LoveGlaze/BaiDuPan/raw/master/images/ShuMa-IDM.gif" />  
