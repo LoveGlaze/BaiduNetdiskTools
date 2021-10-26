@@ -7,7 +7,7 @@
 ## 安装教程  
 - 第一步，安装油猴插件：[Tampermonkey](https://www.tampermonkey.net)
 - 第二步，安装数码小站脚本：[数码小站](https://greasyfork.org/zh-CN/scripts/426806)  
-- 手动安装教程，复制以下链接，粘贴到图中位置
+- 手动安装教程，点击右上角油猴图标->管理面板->实用工具，然后复制以下链接，粘贴到图中位置
 ```diff
 https://gitee.com/LoveGlaze/BaiDuPan/raw/master/js/%E6%95%B0%E7%A0%81%E5%B0%8F%E7%AB%99.js
 ```
