@@ -3,6 +3,9 @@
 + 本教程有一定难度，看不懂中文的请绕道
 - 本教程有一定难度，看不懂中文的请绕道
 ```
+```json
+脚本被举报下线，请采用手动安装
+```
 数码小站官网同样有教程[点击跳转数码小站主页](https://www.shuma.ink/zh-cn/install.html)
 ## 安装教程  
 - 第一步，安装油猴插件：[Tampermonkey](https://www.tampermonkey.net)
