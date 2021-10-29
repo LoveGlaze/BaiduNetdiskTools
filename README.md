@@ -96,11 +96,18 @@ https://gitee.com/LoveGlaze/BaiDuPan/raw/master/js/Shuma.js
 
 - 使用方法同IDM,设置UA后复制直链新建任务下载。
 
-#### Motrix:[点击下载](https://motrix.app)
-
+#### Motrix:[点击下载](https://motrix.app)  
+##### 方法一
 - 使用方法同IDM,设置UA后复制直链新建任务下载。
+  
+![Motrix](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/images/Motrix.png)    
 
-![Motrix](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/images/Motrix.png)  
+##### 方法二
+- 也可通过修改脚本配置端口6800为16800后，点击发送到Aria后会发送到Motrix下载，此时下载目录为[脚本配置](http://settings.shuma.ink)页的目录。
+
+![Motrix](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/images/Motrix2.png)  
+
+![Motrix](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/images/Motrix3.png)  
 
 ### 3. 手机  
 
