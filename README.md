@@ -90,6 +90,8 @@ https://gitee.com/LoveGlaze/BaiDuPan/raw/master/js/Shuma.js
 
 ### 2. Mac
 
+- Mac我使用的是微软Edge浏览器[点击下载](https://www.microsoft.com/zh-cn/edge#platform)。
+
 #### NDM:[点击下载](http://www.neatdownloadmanager.com/index.php)
 
 - 使用方法同IDM,设置UA后复制直链新建任务下载。
