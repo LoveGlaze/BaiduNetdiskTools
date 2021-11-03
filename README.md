@@ -50,6 +50,7 @@ https://gitee.com/LoveGlaze/BaiDuPan/raw/master/js/Shuma.js
 ```json
 - 解析失败 等待修复,服务器出问题了，等待修复。  
 ```
+![](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/images/%E8%A7%A3%E6%9E%90%E5%A4%B1%E8%B4%A5.png)
 
 ```json
 - IDM安装后未创建桌面图标的，开始菜单自己找。  
