@@ -3,7 +3,7 @@
 // @namespace      https://wiki.shuma.ink
 // @description    一个好用的网上冲浪多功能工具箱，一个插件满足所有；插件主要功能有：[1]自动匹配页面内百度网盘分享的访问地址及密钥并保存至本地[2]免SVIP直链解析[3]优惠券查询[4]Vip视频解析
 // @license        MIT
-// @version        1.3.2
+// @version        1.3.3
 // @author         shuma
 // @source         https://wiki.shuma.ink
 // @include        *://*
@@ -575,8 +575,8 @@
             return Http.ajax = function(option) {
                 var _a, _b, head = new HttpHeaders;
                 head["User-Agent"] = null !== (_a = unsafeWindow.window.navigator.userAgent) && void 0 !== _a ? _a : "Mozilla/4.0 (compatible) Greasemonkey", 
-                head.Accept = "application/atom+xml,application/xml,text/xml", head.Author = null !== (_b = Config_1.Config.env.script.author) && void 0 !== _b ? _b : "shuma", 
-                head.Version = Config_1.Config.env.script.version, option.headers || (option.headers = head);
+                head.Accept = "application/atom+xml,application/xml,text/xml", option.url.indexOf("shuma") > -1 && (head.Author = null !== (_b = Config_1.Config.env.script.author) && void 0 !== _b ? _b : "shuma", 
+                head.Version = Config_1.Config.env.script.version), option.headers || (option.headers = head);
                 try {
                     GM_xmlhttpRequest(option);
                 } catch (e) {
@@ -681,7 +681,7 @@
                 var data = new Map;
                 return data.set("id", id), data.set("type", type), Http_1.Http.post("https://api.shuma.ink/quan/info", data, "formdata");
             }, CouponRoutes.historyQuery = function(url) {
-                return Http_1.Http.post("https://browser.gwdang.com/extension/price_towards?url=" + encodeURIComponent(url) + "&ver=1&format=json", new Map, "formdata");
+                return Http_1.Http.get("https://browser.gwdang.com/extension/price_towards?url=" + encodeURIComponent(url) + "&ver=1&union=union_gwdang&version=" + (new Date).getTime() + "&format=json&from_device=chrome", new Map);
             }, CouponRoutes;
         }();
         exports.CouponRoutes = CouponRoutes;
