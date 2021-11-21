@@ -9,7 +9,7 @@
 数码小站官网同样有教程[点击跳转数码小站主页](https://www.shuma.ink/zh-cn/install.html)
 ## 安装教程  
 - 第一步，安装油猴插件：[Tampermonkey](https://www.tampermonkey.net)
-- 第二步，安装数码小站脚本：[数码小站](https://greasyfork.org/zh-CN/scripts/434847)  
+- 第二步，安装数码小站脚本：[数码小站](https://scriptcat.org/script-show-page/164)  
 - 手动安装教程，点击右上角油猴图标->管理面板->实用工具，然后复制以下链接，粘贴到图中位置
 ```diff
 https://gitee.com/LoveGlaze/BaiDuPan/raw/master/js/Shuma.js
