@@ -10,11 +10,7 @@
 ## 安装教程  
 - 第一步，安装油猴插件：[Tampermonkey](https://www.tampermonkey.net)
 - 第二步，安装数码小站脚本：[数码小站](https://scriptcat.org/script-show-page/164)  
-- 手动安装教程，点击右上角油猴图标->管理面板->实用工具，然后复制以下链接，粘贴到图中位置
-```diff
-https://gitee.com/LoveGlaze/BaiDuPan/raw/master/js/Shuma.js
-```
-![手动安装教程](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/images/%E6%89%8B%E5%8A%A8%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.png)
+- 若第二步无法安装，[点击此处安装](https://gitee.com/LoveGlaze/BaiDuPan/raw/master/js/Shuma.user.js)
 
 - 暴力猴可能存在卡密一直查询中的问题
 - 也可以使用[KinhDown客户端](https://kinhdown.com)，可批量下载
