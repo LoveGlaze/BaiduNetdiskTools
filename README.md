@@ -14,6 +14,7 @@
 
 - 暴力猴可能存在卡密一直查询中的问题
 - 也可以使用[KinhDown客户端](https://kinhdown.com)，可批量下载
+- 群文件提供数码小站客户端，无需卡密即可下载，交流 QQ 群：413834410<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=7Rr-ernwC4BV2tJYfxz3DSf5UuJMyb8O&jump_from=webapi"><img border="0" src="https://cdn.jsdelivr.net/gh/LoveGlaze/images@master/QQ.png" alt="数码小站语言艺术交流" title="数码小站语言艺术交流"></a>
 ### 1. Windows  
 #### IDM:[点击下载](https://gitee.com/LoveGlaze/BaiduNetdiskTools/raw/master/IDM/Internet%20Download%20Manager.exe)  
 - 动图：
