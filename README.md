@@ -10,6 +10,7 @@
 ## 安装教程  
 - 第一步，安装油猴插件：[Tampermonkey](https://www.tampermonkey.net)
 - 第二步，安装数码小站脚本：[数码小站](https://scriptcat.org/script-show-page/164)  
+- 新脚本[派派助手](https://greasyfork.org/zh-CN/scripts/438022)无需关注公众号即可使用，方法一致
 - 若第二步无法安装，请[点击此处安装](https://gitee.com/LoveGlaze/BaiduNetdiskTools/raw/master/js/Shuma.user.js)
 
 - 暴力猴可能存在卡密一直查询中的问题
