@@ -8,6 +8,7 @@
 ```
 数码小站官网同样有教程[点击跳转数码小站主页](https://www.shuma.ink/zh-cn/install.html)
 ## 安装教程  
+- 新软件[antdownload](https://lovekevin.top/%E5%90%84%E7%A7%8D%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/antdownload.zip),下载即用
 - 第一步，安装油猴插件：[Tampermonkey](https://www.tampermonkey.net)
 - 第二步，安装数码小站脚本：[数码小站](https://scriptcat.org/script-show-page/164)  
 - 新脚本[派派助手](https://greasyfork.org/zh-CN/scripts/438022)无需关注公众号即可使用，方法一致
